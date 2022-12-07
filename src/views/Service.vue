@@ -1,6 +1,7 @@
 <template>
-    <div class="bg-green-500 flex justify-center text-8xl capitalize">
-       Service
+    <div class=" flex justify-center  items-center m-auto text-8xl capitalize">
+      My work
+   
     </div>
     <modale class="flex justify-center"/>
    </template>
