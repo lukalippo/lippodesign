@@ -1,6 +1,6 @@
 <template>
     <div class=" flex justify-center  items-center m-auto text-8xl capitalize">
-      My work
+      My work 2
    
     </div>
     <modale class="flex justify-center"/>
